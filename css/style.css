@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#titulo {
+    font-size: 25px;
+    margin: auto;
+    margin-top: 2%;
+    text-align: center;
+    font-family: 'Red Rose', cursive;
+}
